@@ -1,1 +1,1 @@
-# gifTastic
+Click on the buttons given to you to see different gifs of Marvel characters. If you would like to see one of your favorite characters just search their name and a new button will appear that you can click on to see their gifs. If you would like to animate the gifs just click on them, if you would like them to pause just click again!
